@@ -1,0 +1,17 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mi_mongodb": {
+    "host": "ds143678",
+    "port": 43678,
+    "url": "",
+    "database": "instauto_db",
+    "password": "napeza02napeza02",
+    "name": "mi_mongodb",
+    "user": "nacho",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
